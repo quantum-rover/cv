@@ -217,6 +217,10 @@ footer {
     transform: scale(1.1);
 }
 
+#hobbies, #references {
+    text-align: left; /* Ensures left alignment */
+    margin-left: 0;
+}
 
 /* Popup Styles */
 .popup {
